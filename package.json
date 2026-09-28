@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/rankcell",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Rank identifiers and cell tokens for idempotent workflows.",
+  "bin": {
+    "rankcell": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/rankcell.git"
+  },
+  "homepage": "https://theworker02.github.io/rankcell/",
+  "keywords": [
+    "rank",
+    "cell",
+    "id",
+    "cli",
+    "toolkit"
+  ]
+}
